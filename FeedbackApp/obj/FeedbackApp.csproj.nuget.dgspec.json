@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FeedbackApp\\FeedbackApp\\FeedbackApp.csproj": {}
+    "C:\\FeedbackAPP\\FeedbackApp\\FeedbackApp.csproj": {}
   },
   "projects": {
-    "C:\\FeedbackApp\\FeedbackApp\\FeedbackApp.csproj": {
+    "C:\\FeedbackAPP\\FeedbackApp\\FeedbackApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FeedbackApp\\FeedbackApp\\FeedbackApp.csproj",
+        "projectUniqueName": "C:\\FeedbackAPP\\FeedbackApp\\FeedbackApp.csproj",
         "projectName": "FeedbackApp",
-        "projectPath": "C:\\FeedbackApp\\FeedbackApp\\FeedbackApp.csproj",
+        "projectPath": "C:\\FeedbackAPP\\FeedbackApp\\FeedbackApp.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-        "outputPath": "C:\\FeedbackApp\\FeedbackApp\\obj\\",
+        "outputPath": "C:\\FeedbackAPP\\FeedbackApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",

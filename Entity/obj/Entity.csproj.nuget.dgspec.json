@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FeedbackApp\\Entity\\Entity.csproj": {}
+    "C:\\FeedbackAPP\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\FeedbackApp\\Entity\\Entity.csproj": {
+    "C:\\FeedbackAPP\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FeedbackApp\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\FeedbackAPP\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\FeedbackApp\\Entity\\Entity.csproj",
+        "projectPath": "C:\\FeedbackAPP\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-        "outputPath": "C:\\FeedbackApp\\Entity\\obj\\",
+        "outputPath": "C:\\FeedbackAPP\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
