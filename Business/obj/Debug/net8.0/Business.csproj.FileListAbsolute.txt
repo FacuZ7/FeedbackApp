@@ -1,0 +1,16 @@
+C:\Users\facun\source\repos\FeedbackApp\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\facun\source\repos\FeedbackApp\Business\bin\Debug\net8.0\Business.dll
+C:\Users\facun\source\repos\FeedbackApp\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\facun\source\repos\FeedbackApp\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\facun\source\repos\FeedbackApp\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.dll
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\facun\source\repos\FeedbackApp\Business\obj\Debug\net8.0\ref\Business.dll

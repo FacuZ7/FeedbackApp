@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FeedbackAPP\\Entity\\Entity.csproj": {}
+    "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\FeedbackAPP\\Entity\\Entity.csproj": {
+    "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FeedbackAPP\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\FeedbackAPP\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-        "outputPath": "C:\\FeedbackAPP\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
