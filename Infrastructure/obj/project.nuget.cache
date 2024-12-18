@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lzZ/Ehx634JZtZHjqUAeFw2xaFO50LkxDUju8t4rWJ3VhbEazkT5aQdkAhQRhN0eiuE8uRKs60Rp7yPSnBClAw==",
+  "dgSpecHash": "II0J/Yq7maFFtium+ddmJBRooKy+jZE+IUfv9VPj5cW7dK/LqSaXlCzdcWzP6Oob41/o+qjnizd03We617qVFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facun\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\facun\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

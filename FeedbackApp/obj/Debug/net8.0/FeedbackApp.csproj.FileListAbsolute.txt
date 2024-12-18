@@ -35,7 +35,6 @@ C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.AssemblyInfoInputs.cache
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.AssemblyInfo.cs
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.csproj.CoreCompileInputs.cache
-C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\obj\Debug\net8.0\FeedbackApp.sourcelink.json
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\appsettings.Development.json
@@ -119,7 +118,7 @@ C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\runtimes\br
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Business.dll
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Entity.dll
-C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Business.pdb
 C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Entity.pdb
-C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Infrastructure_SQLServer.dll
+C:\Users\facun\source\repos\FeedbackApp\FeedbackApp\bin\Debug\net8.0\Infrastructure_SQLServer.pdb

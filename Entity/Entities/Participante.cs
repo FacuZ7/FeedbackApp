@@ -10,10 +10,10 @@ namespace Entity.Entities
     public class Participante
     {
         public int ParticipanteId { get; set; }
-        public string Nombre { get; private set; }
-        public string Apellido { get; private set; }
-        public DateTime FechaNacimiento { get; private set; }
-        public int GeneroId { get; private set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public DateTime FechaNacimiento { get; set; }
+        public int GeneroId { get; set; }
 
         public Participante(string nombre, string apellido, DateTime fechaNacimiento)
         {
@@ -21,6 +21,8 @@ namespace Entity.Entities
             SetApellido(apellido);
             SetFechaNacimiento(fechaNacimiento);
         }
+
+        public Participante() { }
 
         private void SetNombre(string nombre)
         {

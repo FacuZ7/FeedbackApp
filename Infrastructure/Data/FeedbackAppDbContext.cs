@@ -1,4 +1,4 @@
-﻿using Entity.Entities;
+﻿using Infrastructure_SQLServer.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using System;

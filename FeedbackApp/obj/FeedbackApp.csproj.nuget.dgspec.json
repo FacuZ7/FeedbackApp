@@ -148,8 +148,8 @@
               "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj": {
                 "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj"
               },
-              "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj": {
+                "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj"
               }
             }
           }
@@ -192,12 +192,12 @@
         }
       }
     },
-    "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj",
+        "projectName": "Infrastructure_SQLServer",
+        "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

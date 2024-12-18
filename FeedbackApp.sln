@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{BD9CABE7-CD51-4C75-8944-7166C1B3B6FF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{FA04D728-9CAC-4DB0-AD37-140D24006151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure_SQLServer", "Infrastructure\Infrastructure_SQLServer.csproj", "{FA04D728-9CAC-4DB0-AD37-140D24006151}"
 	ProjectSection(ProjectDependencies) = postProject
 		{BD9CABE7-CD51-4C75-8944-7166C1B3B6FF} = {BD9CABE7-CD51-4C75-8944-7166C1B3B6FF}
 		{EF333D59-ECDA-4FF3-9D6D-0A0B3AB5D6E5} = {EF333D59-ECDA-4FF3-9D6D-0A0B3AB5D6E5}

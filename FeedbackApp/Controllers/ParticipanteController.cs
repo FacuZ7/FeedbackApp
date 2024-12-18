@@ -1,5 +1,7 @@
 ﻿using Business;
 using Entity.Entities;
+using Infrastructure_SQLServer.Models;
+using Infrastructure_SQLServer.Presenters;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FeedbackApp.Controllers
@@ -8,9 +10,9 @@ namespace FeedbackApp.Controllers
     [Route("[controller]")]
     public class ParticipanteController : ControllerBase
     {
-        private readonly ParticipanteService _participanteService;
+        private readonly ParticipanteService<Entity.Entities.Participante, ParticipanteViewModel> _participanteService;
 
-        public ParticipanteController(ParticipanteService participanteService)
+        public ParticipanteController(ParticipanteService<Entity.Entities.Participante, ParticipanteViewModel> participanteService)
         {
             _participanteService = participanteService;
         }
@@ -23,14 +25,14 @@ namespace FeedbackApp.Controllers
         }
 
         [HttpGet("ParticipanteServiceGetOne")]
-        public async Task<string> ParticipanteServiceGetOne()
+        public async Task<ParticipanteViewModel> ParticipanteServiceGetOne()
         {
             var result = await _participanteService.GetParticipante(1);
-            return $"El participante 1 es: {result.GetNombreApellido()} y tiene {result.GetEdad()} añitos";
+            return result;
         }
 
         [HttpGet("ParticipanteServiceGetAll")]
-        public async Task<IEnumerable<Participante>> ParticipanteServiceGetAll()
+        public async Task<IEnumerable<ParticipanteViewModel>> ParticipanteServiceGetAll()
         {
             var result = await _participanteService.GetTodosParticipante();
             return result;

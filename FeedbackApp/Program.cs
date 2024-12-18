@@ -1,7 +1,11 @@
 using Business;
 using Business.Interfaces;
+using Business.Presenter;
+using Entity.Entities;
 using Infrastructure;
 using Infrastructure.Data;
+using Infrastructure_SQLServer.Models;
+using Infrastructure_SQLServer.Presenters;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -19,8 +23,9 @@ builder.Services.AddDbContext<FeedbackAppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-builder.Services.AddScoped<IRepository, Repository>();
-builder.Services.AddScoped<ParticipanteService>();
+builder.Services.AddScoped<IRepository<Entity.Entities.Participante>, Repository>();
+builder.Services.AddScoped<IPresenter<Entity.Entities.Participante, ParticipanteViewModel>, ParticipantePresenter>();
+builder.Services.AddScoped<ParticipanteService<Entity.Entities.Participante, ParticipanteViewModel>>();
 
 var app = builder.Build();
 

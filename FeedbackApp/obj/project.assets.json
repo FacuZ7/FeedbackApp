@@ -1121,7 +1121,7 @@
           "bin/placeholder/Entity.dll": {}
         }
       },
-      "Infrastructure/1.0.0": {
+      "Infrastructure_SQLServer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -1131,10 +1131,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/Infrastructure.dll": {}
+          "bin/placeholder/Infrastructure_SQLServer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Infrastructure.dll": {}
+          "bin/placeholder/Infrastructure_SQLServer.dll": {}
         }
       }
     }
@@ -3266,17 +3266,17 @@
       "path": "../Entity/Entity.csproj",
       "msbuildProject": "../Entity/Entity.csproj"
     },
-    "Infrastructure/1.0.0": {
+    "Infrastructure_SQLServer/1.0.0": {
       "type": "project",
-      "path": "../Infrastructure/Infrastructure.csproj",
-      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+      "path": "../Infrastructure/Infrastructure_SQLServer.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure_SQLServer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Business >= 1.0.0",
       "Entity >= 1.0.0",
-      "Infrastructure >= 1.0.0",
+      "Infrastructure_SQLServer >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -3313,8 +3313,8 @@
             "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj": {
               "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Entity\\Entity.csproj"
             },
-            "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj": {
+              "projectPath": "C:\\Users\\facun\\source\\repos\\FeedbackApp\\Infrastructure\\Infrastructure_SQLServer.csproj"
             }
           }
         }
